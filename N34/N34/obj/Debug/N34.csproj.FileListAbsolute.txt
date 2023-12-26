@@ -1,0 +1,7 @@
+C:\Users\gucin\OneDrive\Рабочий стол\АиП\lab13\N34\N34\bin\Debug\N34.exe.config
+C:\Users\gucin\OneDrive\Рабочий стол\АиП\lab13\N34\N34\bin\Debug\N34.exe
+C:\Users\gucin\OneDrive\Рабочий стол\АиП\lab13\N34\N34\bin\Debug\N34.pdb
+C:\Users\gucin\OneDrive\Рабочий стол\АиП\lab13\N34\N34\obj\Debug\N34.csproj.AssemblyReference.cache
+C:\Users\gucin\OneDrive\Рабочий стол\АиП\lab13\N34\N34\obj\Debug\N34.csproj.CoreCompileInputs.cache
+C:\Users\gucin\OneDrive\Рабочий стол\АиП\lab13\N34\N34\obj\Debug\N34.exe
+C:\Users\gucin\OneDrive\Рабочий стол\АиП\lab13\N34\N34\obj\Debug\N34.pdb
